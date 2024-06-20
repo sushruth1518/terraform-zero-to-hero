@@ -1,3 +1,4 @@
+# Configure git newly
 ## git remote -v
 ## git add remote origin/sush/username    url of the repo
 ## git remove remote sush
@@ -9,3 +10,4 @@
 ## git commit -m "commit msg"
 ## git config --global --edit
 ## git commit --amend --reset-author
+## cat ~/.ssh/id_rsa.pub
