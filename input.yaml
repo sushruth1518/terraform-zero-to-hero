@@ -1,0 +1,91 @@
+name: Learning GA
+author: Sushruth
+key: value
+"description": "Hi sushruth"
+array :
+ - 9000
+ - '1000'
+json array: [bollean,world!]
+special: "ravindu: Toyata"
+#concentrate on logic while learning not on grammar
+key2: ajay" gh/0\ *$#@!%^&*(!) "
+double: "\u263A \u263B \n"
+key3: 'ajay gh/0\ *$#@!%^&*(!) '
+
+object(maps):
+    key: value
+    another: value
+    nested object:
+      nestkey: value
+      basut: "key: value"
+      country: [IN,EU,AM,NZ]
+
+
+jsonobject(maps): {
+    "key": "value",
+    "another": "value",
+    "nested object": {
+      "nestkey": "value",
+      "basut":  "value",
+      "country": "[IN,EU,AM,NZ]"
+    }
+}
+keyA: 
+    - value: pair
+      json: yaml
+      js: html
+      jq: [Js,html,ajax]
+    - - nested array item
+      - nested
+      - nested : value
+
+literal block: |
+    lorem ipsum
+    chatgpt
+    vid
+
+folded block: >
+    first line
+    Second Line
+    third Line
+
+literal1 block: |-
+    lorem ipsum
+    chatgpt
+    vid
+
+folded1 block: >-
+    first line
+    Second Line
+    third Line
+
+literal2 block: |+
+    lorem ipsum
+    chatgpt
+    vid
+
+
+
+
+
+folded2 block: >+
+    first line
+    Second Line
+    third Line
+
+
+
+endofyaml: 
+ "good bye! Thank you  '\u263B' "
+
+
+
+
+
+
+
+
+
+
+
+
