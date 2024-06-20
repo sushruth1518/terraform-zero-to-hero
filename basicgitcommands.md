@@ -7,3 +7,5 @@
 ## git add .
 ## git status 
 ## git commit -m "commit msg"
+## git config --global --edit
+## git commit --amend --reset-author
